@@ -1,8 +1,3 @@
-# Project folders and files to ignore
-build
-phpcs.xml
-phpunit.xml
-
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -43,3 +38,9 @@ nbproject
 .directory
 *.sql
 *.tar*
+
+# Project folders and files to ignore
+build
+phpcs.xml
+phpunit.xml
+vendor
