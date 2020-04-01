@@ -7,7 +7,6 @@ $fields = [
     'author_name' =>            ['Your name',             '',                                                ''],
     'author_github_username' => ['Your Github username',  '<username> in https://github.com/username',       ''],
     'author_email' =>           ['Your email address',    '',                                                ''],
-    'author_twitter' =>         ['Your twitter username', '',                                                '@{author_github_username}'],
     'author_website' =>         ['Your website',          '',                                                'https://github.com/{author_github_username}'],
 
     'package_vendor' =>         ['Package vendor',        '<vendor> in https://github.com/vendor/package',   '{author_github_username}'],
