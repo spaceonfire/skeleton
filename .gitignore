@@ -12,11 +12,6 @@
 *.lock
 !**/yarn.lock
 
-# Dotenv
-.env
-.env.*
-!.env.example
-
 # OS or Editor folders
 .DS_Store
 ._*
@@ -39,8 +34,15 @@ nbproject
 *.sql
 *.tar*
 
+# Dotenv
+.env
+.env.*
+!.env.example
+
 # Project folders and files to ignore
 build
-phpcs.xml
-phpunit.xml
 vendor
+.phpunit.result.cache
+phpunit.xml
+phpstan.neon
+docker-compose.override.yml
