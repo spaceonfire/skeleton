@@ -8,11 +8,12 @@ parameters:
   cache_directory: ._ecs_cache
   paths:
     - src/
-    - tests/
   skip:
     Unused variable $_.: ~
 
 services:
+  Symplify\CodingStandard\Fixer\LineLength\LineLengthFixer: ~
+
   # Types
   # SlevomatCodingStandard\Sniffs\TypeHints\ParameterTypeHintSniff: ~
   # SlevomatCodingStandard\Sniffs\TypeHints\PropertyTypeHintSniff: ~
