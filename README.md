@@ -70,8 +70,8 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-version]: https://img.shields.io/packagist/v/:vendor/:package_name.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/:vendor/:package_name.svg?style=flat-square
-[ico-coverage]: https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fgist.githubusercontent.com%2Fhustlahusky%2Fd62607c1a2e4707959b0142e0ea876cd%2Fraw%2:vendor-:package.json
-[ico-build-status]: https://github.com/:vendor/:package/workflows/Build%20Pipeline/badge.svg
+[ico-coverage]: https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fgist.githubusercontent.com%2Fhustlahusky%2Fd62607c1a2e4707959b0142e0ea876cd%2Fraw%2F:vendor-:package_name.json
+[ico-build-status]: https://github.com/:vendor/:package_name/workflows/Build%20Pipeline/badge.svg
 [link-packagist]: https://packagist.org/packages/:vendor/:package_name
 [link-downloads]: https://packagist.org/packages/:vendor/:package_name
 [link-author]: https://github.com/:author_username
